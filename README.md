@@ -1,4 +1,2 @@
 # InsertionSort
-
-## Description
-Able to 
+Command line program demonstrating the insertion sort
